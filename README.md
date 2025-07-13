@@ -17,18 +17,10 @@ This project investigates temporal and environmental factors affecting scooter r
 Scooter-Rental-Analysis/
 │
 ├── Scooter Rental Analysis.ipynb  # Main notebook with full analysis
-├── data/                          # Directory for dataset(s)
+├── data/                          # Directory for dataset
 ├── images/                        # Output plots and figures
-└── README.md                      # Project documentation (this file)
+└── README.md                      
 ```
-
-## 🧪 Technologies Used
-
-- **Python 3.8+**
-- **Pandas** for data manipulation
-- **Matplotlib** and **Seaborn** for visualization
-- **NumPy** for numerical computations
-- **Jupyter Notebook** for interactive analysis
 
 ## 📈 Key Insights
 
